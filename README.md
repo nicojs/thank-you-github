@@ -585,6 +585,7 @@ Signed,
 - Shivam Agarwal ([@shivam-97](https://github.com/shivam-97)), Developer, CS Undergrad at IITR, India
 - Nisheeth Golakiya ([@nisheeth-golakiya](https://github.com/nisheeth-golakiya)), Developer, CS Undergrad at IITR, India
 - Karan Dhuria ([@phodu007](https://github.com/phodu007)), Developer, Computer Science Undergraduate at IIT Roorkee, India.
+- Nico Jansen ([@nicojs](https://github.com/nicojs)), Developer and Open Source Advocate, Info Support, The Netherlands
 - Arman Jon Villalobos ([@iamarmanjon](https://github.com/iamarmanjon)), Software Developer, Metro Manila, Philippines
 - William Oliveira ([@gnuwilliam](https://github.com/gnuwilliam)), Developer, Brazil
 - Aaron Patterson ([@tenderlove](https://github.com/tenderlove)), Developer, Seattle, WA
@@ -604,3 +605,4 @@ Signed,
 - Venkatesh Babu ([@venkatvb](https://github.com/venkatvb)), Software Engineer, India.
 - Arandi López ([@arandilopez](https://github.com/arandilopez)), Software Engineer, Mexico
 - Alejandro Nanez ([@alejandronanez](https://github.com/alejandronanez)), Software Engineer, Medellín, Colombia.
+
